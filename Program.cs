@@ -16,7 +16,6 @@ namespace MyWinFormsApp
         [STAThread]
         static void Main()
         {
-            // Включение визуальных стилей
             Application.EnableVisualStyles();
             // Установка стандартных значений (в данном случае false - отключено)
             Application.SetCompatibleTextRenderingDefault(false);
